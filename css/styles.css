@@ -78,7 +78,7 @@ img {
 /** Header */
 .header {
     min-height: 60rem;
-    background-image: url(../img/casaE2\ \(1\).jpeg);
+    background-image: url(../img/CasaPortada.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position:  center;
@@ -262,7 +262,7 @@ img {
     }
 }
 .premier {
-    background-image: url(../img/casaE1\ \(9\).jpg);
+    background-image: url(../img/casaE2\ \(3\).jpeg);
     background-size: contain;
 }
 @media (min-width: 768px) { 
